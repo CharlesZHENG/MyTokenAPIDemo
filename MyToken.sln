@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyToken", "MyToken\MyToken.csproj", "{2BF27F8A-BF1B-4A00-B186-C3E3F6853AD1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyTokenTests", "MyTokenTests\MyTokenTests.csproj", "{14B72EF2-C4B0-4F63-9B7E-9ECFE38F3F4C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2BF27F8A-BF1B-4A00-B186-C3E3F6853AD1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BF27F8A-BF1B-4A00-B186-C3E3F6853AD1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BF27F8A-BF1B-4A00-B186-C3E3F6853AD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BF27F8A-BF1B-4A00-B186-C3E3F6853AD1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{14B72EF2-C4B0-4F63-9B7E-9ECFE38F3F4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14B72EF2-C4B0-4F63-9B7E-9ECFE38F3F4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14B72EF2-C4B0-4F63-9B7E-9ECFE38F3F4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14B72EF2-C4B0-4F63-9B7E-9ECFE38F3F4C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5BE31141-AB19-4568-BCB8-099B11F2BA86}
+	EndGlobalSection
+EndGlobal
